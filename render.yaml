@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: thanhdieu-site
+    env: docker
+    plan: free
+    repo: https://github.com/<ten-github-cua-ban>/<ten-repo>
+    branch: main
+    dockerfilePath: ./Dockerfile
+    buildCommand: ""
+    startCommand: apache2-foreground
