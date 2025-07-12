@@ -7,13 +7,13 @@ interface ThanhDieuConfigInterface {
     public function CommonMethod();
 }
 class ThanhDieuHeader implements ThanhDieuConfigInterface {
-    public $title = "Vương Thanh Diệu | Resources V5";
-    public $description = "Hi my name is ThanhDieu / A freelance / web developer / vexer";
-    public $keywords = "thanhdieu,web thanh dieu,vuong thanh dieu,thanhdieutv,wsteam,wusteam,thanhdieu home,profile thanhdieu";
+    public $title = "Hoàng Văn Hưng | WebsiteProfile";
+    public $description = "Hi my name is VanHung / A freelance / web developer / vexer";
+    public $keywords = "vanhung,web van hung,hoang van hung,vanhungdev,obii,ayaa,vanhung home,profile by vanhung";
     public $favicon = "./res/v5/img/logo.jpg";
-    public $namesite = "THANHDIEU | HOME";
+    public $namesite = "Vanhung | HOME";
     public $avatar = "./res/v5/img/avatar.gif";
-    public $userName = ["Hello Everybody", "My name is ThanhDieu.", "I really like website design 🌭"];
+    public $userName = ["Hello Everybody", "My name is VanHung.", "I really like website design 🌭"];
     public $trigger = "👉 Tìm hiểu tôi 😶&zwj;🌫️";
     public $bio1 = "🤖️ Người đâm mê công nghệ số";
     public $bio2 = "🔍 Chia sẻ và giúp đỡ nhiệt tình";
