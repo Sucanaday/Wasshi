@@ -16,7 +16,7 @@ $ThanhDieuMusicList->CommonMethod();
     <meta name="theme-color" content="#00FFFF">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="description" content="<?=$ThanhDieuHeader->description?>">
-    <meta name="author" content="ThanhDieuTV">
+    <meta name="author" content="VanHungDev">
     <meta name="keywords"
         content="<?=$ThanhDieuHeader->keywords?>">
     <meta name="robots" content="index, follow">
@@ -296,7 +296,7 @@ $ThanhDieuMusicList->CommonMethod();
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="nk-opt-set comming-soon" style="pointer-events:none;opacity: 0.5;">
+                             <div class="nk-opt-set comming-soon" style="pointer-events:none;opacity: 0.5;">
                                 <div class="nk-opt-set-title">Hiệu Ứng Effect</div>
                                 <div class="nk-opt-list col-3x">
                                     <div class="nk-opt-item active" data-key="effect" data-update="tathieuung">
@@ -318,7 +318,7 @@ $ThanhDieuMusicList->CommonMethod();
                                         </div>
                                     </div>
                                 </div>
-                            </div> -->
+                            </div>   
                             <div class="nk-opt-set">
                                 <div class="nk-opt-set-title">Giao Diện Theme</div>
                                 <div class="nk-opt-list col-2x">
