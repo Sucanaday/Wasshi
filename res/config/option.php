@@ -22,10 +22,10 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $bio5 = "Ăn, ngủ, làm và chơi game 🎮";
     public $bio6 = "Kẻ khờ dại tin vào tình yêu ✨";
     public $SocialNetworks = [
-        "facebook" => "https://facebook.com/wusthanhdieu", // Thay link facebook
-        "instagram" => "https://www.instagram.com/vuongsondieu2k2", // Thay link instagram
+        "facebook" => "https://facebook.com/vanzHung.209", // Thay link facebook
+        "instagram" => "https://www.instagram.com/hungroyal209", // Thay link instagram
         "tiktok" => "https://www.tiktok.com/obinek_like", // Thay link tiktok
-        "telegram" => "https://t.me/thanhdieuchannel" // Thay link telegram
+        "telegram" => "https://t.me/ayasourcecode" // Thay link telegram
     ];
     public function CommonMethod(){date_default_timezone_set('Asia/Ho_Chi_Minh');}
 }
