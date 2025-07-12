@@ -34,10 +34,10 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
 class ThanhDieuLoveDays implements ThanhDieuConfigInterface {
     public $ConfigLove = [
         "avatar_male" => "./res/v5/img/male.jpeg", // Thay đường dẫn tới thư mục chứa ảnh của bạn hoặc up ảnh lấy link tại img.thanhdieu.com
-        "name_male" => "ThanhDieu", // Thay tên của bạn
+        "name_male" => "VanHung", // Thay tên của bạn
         //========================================================//
         "avatar_female" => "./res/v5/img/female.jpeg", // Thay đường dẫn tới thư mục chứa ảnh bạn gái hoặc up ảnh lấy link tại img.thanhdieu.com
-        "name_female" => "Ngoc Tram", // Thay tên đối phương
+        "name_female" => "Nghi", // Thay tên đối phương
         //========================================================//
         "time_relashiption" => "28/03/2024" // Định dạng ngày tháng năm: DD-MM-YYYY or / or :
         //========================================================//
