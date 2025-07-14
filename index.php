@@ -52,7 +52,7 @@ $ThanhDieuMusicList->CommonMethod();
                     <img class="logo-ws" src="https://i.imgur.com/dxVZLOG.png" alt="Hoàng Văn Hưng 😎">
                     <span class="web-title">
                         <!-- <span class="td-lock"></span>𝗟𝗼𝗰𝗸 𝗦𝗰𝗿𝗲𝗲𝗻 <span class="td-lock"></span> -->
-                  𝑻𝒉𝒂𝒏𝒉𝑫𝒊𝒆𝒖
+                  ✿ναηɧμηɠ✿
                     </span>
                 </div>
                 <span class="web_desc"></span>
