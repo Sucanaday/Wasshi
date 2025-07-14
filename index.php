@@ -49,7 +49,7 @@ $ThanhDieuMusicList->CommonMethod();
             </div>
             <div class="infos">
                 <div class="logo-web-title">
-                    <img class="logo-ws" src="https://i.imgur.com/dxVZLOG.png" alt="Vương Thanh Diệu">
+                    <img class="logo-ws" src="https://i.imgur.com/dxVZLOG.png" alt="Hoàng Văn Hưng 😎">
                     <span class="web-title">
                         <!-- <span class="td-lock"></span>𝗟𝗼𝗰𝗸 𝗦𝗰𝗿𝗲𝗲𝗻 <span class="td-lock"></span> -->
                   𝑻𝒉𝒂𝒏𝒉𝑫𝒊𝒆𝒖
@@ -226,7 +226,7 @@ $ThanhDieuMusicList->CommonMethod();
     <div class="nk-demo-panel toggle-slide toggle-slide-right toggle-screen-any content-active" id="SettingPanel"
         data-content="SettingPanel" data-toggle-overlay="true" data-toggle-body="true" data-toggle-screen="any">
         <div class="nk-demo-head">
-            <h6 class="mb-0">Ws Settings</h6>
+            <h6 class="mb-0">Settings Nhạc</h6>
             <a class="nk-demo-close toggle btn btn-icon btn-trigger revarse mr-n2 active" data-target="SettingPanel"
                 href="#">
                 <em class="icon ni ni-cross"></em>
@@ -375,11 +375,11 @@ $ThanhDieuMusicList->CommonMethod();
     </span>
     <footer id="footer">
         <span>
-            <a href="//thanhdieu.com" target="_blank">&copy; Copyright&nbsp;ThanhDieu 2024</a>
+            <a href="//thanhdieu.com" target="_blank">&copy; Copyright&nbsp;VanHung 2025</a>
         </span>
     </footer>
     <div class="time-now" id="real-time">00:00:00</div>
-    <div id="Toast">Resources Code V4.0.2</div>
+    <div id="Toast">WebSite VanHungProfile</div>
 
     <!--/ @Framework /-->
     <script src="./res/v5/libs/jquery/jquery-3.6.0.min.js"></script>
